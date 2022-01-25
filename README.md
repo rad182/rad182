@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+![rad182's Github Stats](https://github-readme-stats.vercel.app/api?username=rad182&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&hide=stars)
+
+
+![rad182's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rad182&layout=compact&theme=nightowl)
+
+
+
 <!--
 **rad182/rad182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
