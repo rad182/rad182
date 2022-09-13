@@ -21,4 +21,3 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_LINES_OF_CODE: "True"
           SHOW_SHORT_INFO: "False"
-          LOCALE: "en"
