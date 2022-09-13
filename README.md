@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-![rad182's Github Stats](https://github-readme-stats.vercel.app/api?username=rad182&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&hide=stars)
-
-
-![rad182's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rad182&layout=compact&theme=nightowl)
-
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C070%20hrs%2034%20mins-blue)
 
