@@ -6,6 +6,9 @@
 ![rad182's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rad182&layout=compact&theme=nightowl)
 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 <!--
 **rad182/rad182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
