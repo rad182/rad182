@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C580%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C579%20hrs%2020%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -73,7 +73,7 @@ Shell                    4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/01/2023 14:14:28 UTC
+ Last Updated on 30/01/2023 16:21:26 UTC
 <!--END_SECTION:waka-->
 
 
