@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C707%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C707%20hrs%205%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-125.9%20million%20lines%20of%20code-blue)
 
@@ -32,18 +32,18 @@ Sunday                   8707 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-TypeScript               4 hrs 47 mins       █████████████████████████   99.98 % 
+TypeScript               4 hrs 17 mins       █████████████████████████   99.98 % 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Cursor                   4 hrs 47 mins       █████████████████████████   100.00 % 
+Cursor                   4 hrs 17 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 47 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/11/2024 16:38:09 UTC
+ Last Updated on 22/11/2024 18:31:59 UTC
 <!--END_SECTION:waka-->
 
 
